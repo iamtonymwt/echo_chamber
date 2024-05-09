@@ -1,0 +1,4 @@
+__pycache__/
+original_phi2/
+experiment/results
+experiment/*.csv
