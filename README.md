@@ -22,7 +22,7 @@ A controlled, vaccine focusing chatrooom that simulates the spread of misinforma
 ![alt text](assets/exp_ss_2.png "user interface") -->
 
 ### Paper
-the paper could be seen [here](https://drive.google.com/file/d/1K3lsKwyWas0UF3zAjXuzS_wyuyrP70HF/view?usp=drive_link)
+the paper could be seen [here](https://figshare.com/articles/thesis/LLM_Echo_Chamber_personalized_and_automated_disinformation/25859923)
 
 ### Input Format
 * any thing you want but with signs e.g. ./!/?
